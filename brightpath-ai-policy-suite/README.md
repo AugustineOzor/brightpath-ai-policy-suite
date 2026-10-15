@@ -1,6 +1,7 @@
-<p align="center"><img src="assets/banner.jpg" alt="Project 02 — AI Policy Suite — BrightPath Retail Group" width="100%"></p>
-
 # AI Policy Suite
+
+<img width="1600" height="520" alt="brightpath-ai-policy-suite-banner" src="https://github.com/user-attachments/assets/f5a57a73-48a4-45f9-b5be-c7cea482affc" />
+
 ### BrightPath Retail Group — The policy layer an AI programme actually needs
 
 ![Domain](https://img.shields.io/badge/Domain-AI%20Governance-78c85a) ![Sector](https://img.shields.io/badge/Sector-Retail-1f2a44) ![ISO 42001](https://img.shields.io/badge/ISO%2FIEC%2042001-Cl.%205.2%20%7C%20A.2-1f2a44) ![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-GOVERN-1f2a44) ![Status](https://img.shields.io/badge/Status-Complete-2ea043)
@@ -123,5 +124,3 @@ BrightPath Retail Group is fictional. Policies are illustrative templates and ar
 
 ---
 
-**Augustine Ozor** — AI Governance & Cybersecurity GRC · Doha, Qatar
-[github.com/AugustineOzor](https://github.com/AugustineOzor) · augustineozor@gmail.com
